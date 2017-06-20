@@ -1,0 +1,101 @@
+[
+ {
+   "Country": "Ireland",
+   "City": "Dublin",
+   "Name": "Ballsbridge",
+   "Star": 3,
+   "Price": "$250 ",
+   "Phone": "866-502-7521",
+   "Picture": "1.jpg",
+   "Email": "ballsbridge@yahoo.com",
+   "Address": "53.332147, -6.233866"
+ },
+ {
+   "Country": "Egypt",
+   "City": "Giza Governorate",
+   "Name": "barcelo hotel",
+   "Star": 4,
+   "Price": "$500 ",
+   "Phone": "866-502-7522",
+   "Picture": "2.jpg",
+   "Email": "barcelo@yahoo.com",
+   "Address": "36.680932, -5.453076"
+ },
+ {
+   "Country": "USA",
+   "City": "Las Vegas",
+   "Name": "bellagio hotel",
+   "Star": 5,
+   "Price": "$700 ",
+   "Phone": "866-502-7523",
+   "Picture": "3.jpg",
+   "Email": "bellagio@yahoo.com",
+   "Address": "36.112618, -115.176769"
+ },
+ {
+   "Country": "France",
+   "City": "Cap d'Antibes",
+   "Name": "cap D'Antibes",
+   "Star": 5,
+   "Price": "$700 ",
+   "Phone": "866-502-7524",
+   "Picture": "4.jpg",
+   "Email": "capDAntibes@yahoo.com",
+   "Address": "43.542547, 7.121600"
+ },
+ {
+   "Country": "Netherlands",
+   "City": "Amsterdam",
+   "Name": "college hotel",
+   "Star": 4,
+   "Price": "$500 ",
+   "Phone": "866-502-7525",
+   "Picture": "5.jpg",
+   "Email": "College@yahoo.com",
+   "Address": "52.352781, 4.883751"
+ },
+ {
+   "Country": "USA",
+   "City": "California",
+   "Name": "legoland hotel",
+   "Star": 4,
+   "Price": "$500 ",
+   "Phone": "866-502-7526",
+   "Picture": "6.jpg",
+   "Email": "Legoland@yahoo.com",
+   "Address": "33.126151, -117.310374"
+ },
+ {
+   "Country": "USA",
+   "City": "Florida",
+   "Name": "florida hotel",
+   "Star": 4,
+   "Price": "$500 ",
+   "Phone": "866-502-7527",
+   "Picture": "7.jpg",
+   "Email": "FLHotels@yahoo.com",
+   "Address": "28.445055, -81.395609"
+ },
+ {
+   "Country": "Czechia",
+   "City": "Mari�nsk� L�zn?",
+   "Name": "grand med spa hotel",
+   "Star": 4,
+   "Price": "$500 ",
+   "Phone": "866-502-7528",
+   "Picture": "8.jpg",
+   "Email": "GMSpa@yahoo.com",
+   "Address": "49.971573, 12.700773"
+ },
+ {
+   "Country": "USA",
+   "City": "Hollywood",
+   "Name": "hardrock hotel",
+   "Star": 5,
+   "Price": "$700 ",
+   "Phone": "866-502-7529",
+   "Picture": "9.jpg",
+   "Email": "HRHotels@yahoo.com",
+   "Address": "28.477131, -81.464557"
+ }
+]
